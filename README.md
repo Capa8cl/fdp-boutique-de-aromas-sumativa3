@@ -76,9 +76,8 @@ inmediato el panel principal de resultados:
 ```
 
 2️⃣ Generación de Estadísticas y Beneficios
-Si añadimos un segundo artículo, por ejemplo, un Aceite de Vainilla
-a 5.000, y hacemos clic en el botón Calcular Estadísticas, el sistema imprimirá de manera automatizada el balance económico junto al cupón de descuento ganado por superar los $
-30.000 acumulados:
+### 2️⃣ Generación de Estadísticas y Beneficios
+Si añadimos un segundo artículo, por ejemplo, un *Aceite de Vainilla* a `$5.000`, y hacemos clic en el botón **Calcular Estadísticas**, el sistema imprimirá de manera automatizada el balance económico junto al cupón de descuento ganado por superar los $30.000 acumulados:
 
 ```
 --- Lista de Productos Registrados ---
